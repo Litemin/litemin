@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
-// Brazilian Portuguese translation by Nicole Sigaud
+
 $lang = array(
 	"direction" => "LTR",
 	"date_format" => 'd.m.Y, H:i:s (O T)',  // (formato brasileiro dd.mm.aaaa, hh:mm:ss) see http://php.net/manual/en/function.date.php for what the letters stand for
